@@ -1,4 +1,4 @@
-FROM azinchen/duplicacy:2.7.0
+FROM azinchen/duplicacy:2.8.0
 
 RUN apk add --no-cache \
         curl
